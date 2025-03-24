@@ -1,0 +1,32 @@
+.juru{
+    background-color: #582563; 
+    padding: 30px;
+    font-size: 2em;
+}
+.sub{
+    background-color: #615aaa;
+    width: 25%;
+    height: 300px;
+    float: left;
+}
+.main{
+    width: 75%;
+    height: 300px;
+    float: left;
+}
+.foot{
+    background-color: #582563;
+    padding: 15px;
+    clear: both;
+}
+.ww{
+    text-align: center;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{color: #582563;}
+.padl{padding-left: 20px;}
+.inti{color: #582563;}
